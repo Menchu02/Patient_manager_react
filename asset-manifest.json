@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Patient_manager_react/static/css/main.06f006c1.css",
+    "main.js": "/Patient_manager_react/static/js/main.d3396d3b.js",
+    "static/js/453.e6351436.chunk.js": "/Patient_manager_react/static/js/453.e6351436.chunk.js",
+    "index.html": "/Patient_manager_react/index.html",
+    "main.06f006c1.css.map": "/Patient_manager_react/static/css/main.06f006c1.css.map",
+    "main.d3396d3b.js.map": "/Patient_manager_react/static/js/main.d3396d3b.js.map",
+    "453.e6351436.chunk.js.map": "/Patient_manager_react/static/js/453.e6351436.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f006c1.css",
+    "static/js/main.d3396d3b.js"
+  ]
+}
